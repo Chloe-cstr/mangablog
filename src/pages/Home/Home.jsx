@@ -1,6 +1,10 @@
+import Header from '../../components/Header/Header';
+
 const Home = () => {
     return(
-        <h1>Coucou</h1>
+        <div className='body-container'>
+            <Header />
+        </div>
     )
 };
 
