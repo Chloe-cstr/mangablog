@@ -1,0 +1,28 @@
+[
+    {
+        "titre": "Jujutsu Kaisen",
+        "auteur": "Gege Akutami",
+        "genre": ["Action", "Surnaturel", "Horreur"],
+        "nombre_de_tomes": 25,
+        "editeur": "Ki-oon",
+        "type": "Shōnen",
+        "etat": "En cours",
+        "synopsis": "Yuji Itadori, un lycéen ordinaire, voit sa vie basculer lorsqu’il avale un doigt maudit pour sauver ses camarades. Il devient l’hôte de Ryomen Sukuna, le plus puissant des fléaux, et rejoint l’école d’exorcisme de Tokyo.",
+        "description_personnelle": "J’ai adoré ce manga dès le début et je ne peux m'empêcher de courir acheter un tome dès sa sortie! Les personnages sont hyper stylés, l’univers est sombre mais accrocheur, et les dessins m’ont vraiment marquée. C’est le tout premier manga qui m’a fait plonger à fond dans l'univers manga donc il reste très spécial pour moi.",
+        "coup_de_coeur": false,
+        "manga_vedette": false
+    },
+    {
+        "titre": "20th Century Boys",
+        "auteur": "Naoki Urasawa",
+        "genre": ["Mystère", "Thriller", "Science-fiction"],
+        "nombre_de_tomes": 11,
+        "editeur": "Panini Manga",
+        "type": "Seinen",
+        "etat": "Terminé",
+        "synopsis": "Kenji, un homme ordinaire, découvre qu’un symbole inventé pendant son enfance est lié à une secte mystérieuse et à des événements tragiques. Le passé et le présent s’entremêlent dans un récit haletant qui pourrait bien décider de l’avenir de l’humanité.",
+        "description_personnelle": "Wow quelle claque, qu'est-ce que je peux dire à part que j'ai adoré ? L’ambiance est unique, pleine de suspense, et chaque révélation donne envie d’enchaîner les tomes. C’est le genre de manga qui te retourne le cerveau.",
+        "coup_de_coeur": true,
+        "manga_vedette": true
+      }
+]
