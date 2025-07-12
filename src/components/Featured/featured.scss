@@ -1,0 +1,56 @@
+@use '../../styles/abstracts/var';
+
+.featured{
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    @media (min-width: 769px){
+        flex-direction: row;
+        align-items: center;
+        justify-content: center;
+        padding: 40px 50px;
+        gap: 40px;
+    }
+    &__img{
+        &--width{
+            width: 100%;
+            height: 260px; 
+            object-fit: cover;
+            object-position: bottom;
+            display: block;
+            @media (min-width: 769px){
+                width: 550px;
+                height: 400px;
+            }
+        }
+    }
+    &__text{
+        padding: 24px 20px 0 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        @media (min-width: 769px){
+            gap: 40px;
+            width: 50%;
+            padding: 0 20px;
+        }
+        &__subtitle{
+            font-weight: normal;
+            font-size: 20px;
+            color: var.$secondary-color;
+            @media (min-width: 769px){
+                font-size: 24px;
+            }
+        }
+        &__button{
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+            gap: 7px;
+            width: max-content;
+            @media (min-width: 769px){
+                gap: 12px;
+            }
+        }
+    }
+}
