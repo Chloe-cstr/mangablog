@@ -3,6 +3,12 @@
 .read{
     background-color: var.$background-color;
     padding: 20px;
+    @media (min-width: 769px){
+        padding: 40px 50px;
+    }
+    @media (min-width: 1001px) {
+        padding: 40px 100px;
+    }
     &__title{
         padding-bottom: 24px;
     }

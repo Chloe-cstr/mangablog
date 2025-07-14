@@ -24,7 +24,7 @@
         }
         &__synopsis{
             display: -webkit-box;
-            -webkit-line-clamp: 3; // limite à 2 lignes
+            -webkit-line-clamp: 3;
             line-clamp: 3;
             -webkit-box-orient: vertical;
             overflow: hidden;
