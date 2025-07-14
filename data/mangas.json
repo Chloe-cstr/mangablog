@@ -28,5 +28,21 @@
         "manga_vedette": true,
         "photo_perso": "/images/kenji.png",
         "photo_manga": "/images/Jujutsu_Kaisen.jpg"
-      }
+    },
+    {
+        "titre": "Jagaaan",
+        "auteur": "Muneyuki Kaneshiro",
+        "genre": ["Horreur", "Action", "Psychologique"],
+        "nombre_de_tomes": 14,
+        "editeur": "Kazé",
+        "type": "Seinen",
+        "etat": "Terminé",
+        "synopsis": "Shintarô Jagasaki est un jeune policier frustré par sa vie monotone. Un jour, il est infecté par une créature qui le transforme en monstre capable de faire exploser les gens. Il devra affronter d’autres infectés tout en luttant contre ses propres pulsions.",
+        "description_personnelle": "Un manga complètement barré, sombre et ultra-violent, mais avec une vraie réflexion sur les désirs humains. Jagaaan m’a choquée, fascinée et franchement marquée. C’est pas pour tout le monde, mais moi j’ai kiffé.",
+        "coup_de_coeur": false,
+        "manga_vedette": false,
+        "photo_perso": "/images/jagaaan.png",
+        "photo_manga": "/images/Jagaaan-cover.jpg"
+    }
+      
 ]

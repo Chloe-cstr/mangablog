@@ -1,0 +1,43 @@
+@use '../../styles/abstracts/var';
+
+.mangacard{
+    background-color: white;
+    border-radius: 7px;
+    display: flex;
+    gap: 12px;
+    padding: 20px;
+    &__image{
+        width: 110px;
+        height: 140px;
+        object-fit: cover;
+        object-position: center center;
+        display: block;
+        border-radius: 7px;
+    }
+    &__text{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 12px;
+        &__subtitle{
+            font-weight: bold;
+        }
+        &__synopsis{
+            display: -webkit-box;
+            -webkit-line-clamp: 3; // limite à 2 lignes
+            line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            font-size: var.$size-article;
+        }
+        &__button{
+            font-size: 12px;
+            display: flex;
+            flex-direction: row-reverse;
+            align-items: center;
+            gap: 7px;
+            width: max-content;
+        }
+    }
+}

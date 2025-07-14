@@ -19,8 +19,9 @@ h1{
 }
 
 h2{
+  font-family: var.$title-font;
   font-size: var.$size-subtitle;
-  font-weight: 600;
+  font-weight: bold;
 }
 
 h3{

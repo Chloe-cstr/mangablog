@@ -1,0 +1,14 @@
+@use '../../styles/abstracts/var';
+
+.read{
+    background-color: var.$background-color;
+    padding: 20px;
+    &__title{
+        padding-bottom: 24px;
+    }
+    &__card{
+        display: flex;
+        flex-direction: column;
+        gap: 18px;
+    }
+}
