@@ -58,5 +58,51 @@
         "manga_vedette": false,
         "photo_perso": "/images/gannibal_perso.png",
         "photo_manga": "/images/gannibal_cover.jpg"
-    }  
+    },
+    {
+        "titre": "Vinland Saga",
+        "auteur": "Makoto Yukimura",
+        "genre": ["Historique", "Action", "Drame"],
+        "nombre_de_tomes": 27,
+        "editeur": "Kurokawa",
+        "type": "Seinen",
+        "etat": "En cours",
+        "synopsis": "Thorfinn, jeune guerrier islandais, grandit dans la haine et la vengeance après la mort de son père. Au cœur des conquêtes vikings, il entame un voyage brutal, puis initiatique, à la recherche du légendaire Vinland, une terre de paix.",
+        "description_personnelle": "Un manga magnifique, à la fois violent et profond. Le développement de Thorfinn est incroyable. J’étais venue pour les batailles épiques, je suis restée pour les leçons de vie. C’est puissant, touchant, et ça reste en tête longtemps.",
+        "coup_de_coeur": true,
+        "manga_vedette": false,
+        "photo_perso": "/images/thorfinn.png",
+        "photo_manga": "/images/vinland_saga_cover.jpg"
+    },
+    {
+        "titre": "Dandadan",
+        "auteur": "Yukinobu Tatsu",
+        "genre": ["Action", "Comédie", "Surnaturel", "Science-fiction"],
+        "nombre_de_tomes": 13,
+        "editeur": "Crunchyroll (anciennement Kazé)",
+        "type": "Shōnen",
+        "etat": "En cours",
+        "synopsis": "Momo Ayase croit aux fantômes, mais pas aux extraterrestres. Ken, lui, croit aux aliens mais pas au surnaturel. Suite à un pari idiot, ils vont chacun faire une découverte terrifiante qui va bouleverser leur vie… et les plonger dans un enchaînement d’aventures totalement déjantées.",
+        "description_personnelle": "Ce manga est un délire visuel et narratif comme j’en ai rarement vu. Complètement fou, drôle et intense, avec des scènes d’action incroyables. C’est le chaos total, mais j’adore. Un vrai coup de frais dans les shōnens.",
+        "coup_de_coeur": true,
+        "manga_vedette": false,
+        "photo_perso": "/images/dandadan_perso.png",
+        "photo_manga": "/images/dandadan_cover.jpg"
+    },
+    {
+        "titre": "Les Liens du Sang",
+        "auteur": "Shūzō Oshimi",
+        "genre": ["Psychologique", "Drame", "Thriller"],
+        "nombre_de_tomes": 17,
+        "editeur": "Ki-oon",
+        "type": "Seinen",
+        "etat": "Terminé",
+        "synopsis": "Seiichi mène une vie ordinaire entre son collège et sa mère très (trop) attentionnée. Mais un événement choquant va bouleverser sa perception du monde et de sa famille. Une descente troublante dans les méandres d’une relation mère-fils toxique.",
+        "description_personnelle": "Ce manga m’a mis super mal à l’aise, mais c’est justement pour ça que je l’ai trouvé génial. C’est lent, oppressant, presque étouffant… mais tellement bien écrit. Impossible de le lâcher une fois commencé.",
+        "coup_de_coeur": true,
+        "manga_vedette": false,
+        "photo_perso": "/images/liens_du_sang_perso.png",
+        "photo_manga": "/images/les_liens_du_sang_cover.jpg"
+      }
+        
 ]
