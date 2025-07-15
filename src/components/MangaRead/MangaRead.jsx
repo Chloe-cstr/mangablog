@@ -3,7 +3,7 @@ import mangas from "../../../data/mangas.json";
 import './mangaRead.scss';
 
 const MangaRead = () => {
-    const mangasRead = mangas.filter(manga => manga.manga_vedette === false).slice(0, 6);;
+    const mangasRead = mangas.filter(manga => manga.manga_vedette === false).slice(0, 3);;
     console.log(mangasRead);
     return(
         <div className="read">

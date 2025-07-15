@@ -45,21 +45,6 @@
         "photo_manga": "/images/Jagaaan-cover.jpg"
     },
     {
-        "titre": "Gannibal",
-        "auteur": "Masaaki Ninomiya",
-        "genre": ["Thriller", "Horreur", "Mystère"],
-        "nombre_de_tomes": 13,
-        "editeur": "Meian",
-        "type": "Seinen",
-        "etat": "Terminé",
-        "synopsis": "Daigo Agawa, un policier, est muté dans un village reculé après un incident. Il découvre rapidement que la communauté cache de lourds secrets, dont une rumeur persistante sur le cannibalisme. Peu à peu, la paranoïa s’installe.",
-        "description_personnelle": "Une ambiance ultra-glauque et prenante du début à la fin. Ce manga m’a fait flipper mais j’ai pas pu décrocher. C’est sombre, dérangeant, et super bien construit. J’ai adoré me sentir mal à l’aise en le lisant !",
-        "coup_de_coeur": true,
-        "manga_vedette": false,
-        "photo_perso": "/images/gannibal_perso.png",
-        "photo_manga": "/images/gannibal_cover.jpg"
-    },
-    {
         "titre": "Vinland Saga",
         "auteur": "Makoto Yukimura",
         "genre": ["Historique", "Action", "Drame"],
@@ -103,6 +88,20 @@
         "manga_vedette": false,
         "photo_perso": "/images/liens_du_sang_perso.png",
         "photo_manga": "/images/les_liens_du_sang_cover.jpg"
-      }
-        
+    },
+    {
+        "titre": "Gannibal",
+        "auteur": "Masaaki Ninomiya",
+        "genre": ["Thriller", "Horreur", "Mystère"],
+        "nombre_de_tomes": 13,
+        "editeur": "Meian",
+        "type": "Seinen",
+        "etat": "Terminé",
+        "synopsis": "Daigo Agawa, un policier, est muté dans un village reculé après un incident. Il découvre rapidement que la communauté cache de lourds secrets, dont une rumeur persistante sur le cannibalisme. Peu à peu, la paranoïa s’installe.",
+        "description_personnelle": "Une ambiance ultra-glauque et prenante du début à la fin. Ce manga m’a fait flipper mais j’ai pas pu décrocher. C’est sombre, dérangeant, et super bien construit. J’ai adoré me sentir mal à l’aise en le lisant !",
+        "coup_de_coeur": true,
+        "manga_vedette": false,
+        "photo_perso": "/images/gannibal_perso.png",
+        "photo_manga": "/images/gannibal_cover.jpg"
+    }   
 ]
