@@ -1,6 +1,7 @@
 import Header from '../../components/Header/Header';
 import Featured from '../../components/Featured/Featured';
 import MangaRead from '../../components/MangaRead/MangaRead';
+import Footer from '../../components/Footer/Footer';
 import './home.scss';
 
 const Home = () => {
@@ -13,6 +14,7 @@ const Home = () => {
             <div className='mangaRead'>
                 <MangaRead />
             </div>
+            <Footer />
         </div>
     )
 };
